@@ -1,7 +1,5 @@
 let num = 150
 
-console.log (num)
-
 // 変数numが3と5の倍数の場合： “3と5の倍数です”
 if (num % 3 == 0 && num % 5 == 0) {
   console.log('3と5の倍数です')
